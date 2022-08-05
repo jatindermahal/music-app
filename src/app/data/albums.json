@@ -1,0 +1,1605 @@
+{
+    "href" : "https://api.spotify.com/v1/artists/0YMeriqrS3zgsX24nfY0F0/albums?offset=0&limit=50&include_groups=album,single&locale=en-US,en;q=0.9",
+    "items" : [ {
+      "album_group" : "album",
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0YMeriqrS3zgsX24nfY0F0"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0YMeriqrS3zgsX24nfY0F0",
+        "id" : "0YMeriqrS3zgsX24nfY0F0",
+        "name" : "The Tragically Hip",
+        "type" : "artist",
+        "uri" : "spotify:artist:0YMeriqrS3zgsX24nfY0F0"
+      } ],
+      "available_markets" : [ "AD", "AE", "AG", "AL", "AM", "AO", "AR", "AT", "AU", "AZ", "BA", "BB", "BD", "BE", "BF", "BG", "BH", "BI", "BJ", "BN", "BO", "BR", "BS", "BT", "BW", "BY", "BZ", "CA", "CD", "CG", "CH", "CI", "CL", "CM", "CO", "CR", "CV", "CW", "CY", "CZ", "DE", "DJ", "DK", "DM", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FJ", "FM", "FR", "GA", "GB", "GD", "GE", "GH", "GM", "GN", "GQ", "GR", "GT", "GW", "GY", "HK", "HN", "HR", "HT", "HU", "ID", "IE", "IL", "IN", "IQ", "IS", "IT", "JM", "JO", "JP", "KE", "KG", "KH", "KI", "KM", "KN", "KR", "KW", "KZ", "LA", "LB", "LC", "LI", "LK", "LR", "LS", "LT", "LU", "LV", "LY", "MA", "MC", "MD", "ME", "MG", "MH", "MK", "ML", "MN", "MO", "MR", "MT", "MU", "MV", "MW", "MX", "MY", "MZ", "NA", "NE", "NG", "NI", "NL", "NO", "NP", "NR", "NZ", "OM", "PA", "PE", "PG", "PH", "PK", "PL", "PS", "PT", "PW", "PY", "QA", "RO", "RS", "RW", "SA", "SB", "SC", "SE", "SG", "SI", "SK", "SL", "SM", "SN", "SR", "ST", "SV", "SZ", "TD", "TG", "TH", "TJ", "TL", "TN", "TO", "TR", "TT", "TV", "TW", "TZ", "UA", "UG", "US", "UY", "UZ", "VC", "VE", "VN", "VU", "WS", "XK", "ZA", "ZM", "ZW" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/6DZzcs4OnSsyUWIWb3TnSA"
+      },
+      "href" : "https://api.spotify.com/v1/albums/6DZzcs4OnSsyUWIWb3TnSA",
+      "id" : "6DZzcs4OnSsyUWIWb3TnSA",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273570c17a17aa19642473aa988",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02570c17a17aa19642473aa988",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851570c17a17aa19642473aa988",
+        "width" : 64
+      } ],
+      "name" : "Road Apples (Deluxe)",
+      "release_date" : "2021-11-05",
+      "release_date_precision" : "day",
+      "total_tracks" : 27,
+      "type" : "album",
+      "uri" : "spotify:album:6DZzcs4OnSsyUWIWb3TnSA"
+    }, {
+      "album_group" : "album",
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0YMeriqrS3zgsX24nfY0F0"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0YMeriqrS3zgsX24nfY0F0",
+        "id" : "0YMeriqrS3zgsX24nfY0F0",
+        "name" : "The Tragically Hip",
+        "type" : "artist",
+        "uri" : "spotify:artist:0YMeriqrS3zgsX24nfY0F0"
+      } ],
+      "available_markets" : [ "AD", "AE", "AG", "AL", "AM", "AO", "AR", "AT", "AU", "AZ", "BA", "BB", "BD", "BE", "BF", "BG", "BH", "BI", "BJ", "BN", "BO", "BR", "BS", "BT", "BW", "BY", "BZ", "CD", "CG", "CH", "CI", "CL", "CM", "CO", "CR", "CV", "CW", "CY", "CZ", "DE", "DJ", "DK", "DM", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FJ", "FM", "FR", "GA", "GB", "GD", "GE", "GH", "GM", "GN", "GQ", "GR", "GT", "GW", "GY", "HK", "HN", "HR", "HT", "HU", "ID", "IE", "IL", "IN", "IQ", "IS", "IT", "JM", "JO", "JP", "KE", "KG", "KH", "KI", "KM", "KN", "KR", "KW", "KZ", "LA", "LB", "LC", "LI", "LK", "LR", "LS", "LT", "LU", "LV", "LY", "MA", "MC", "MD", "ME", "MG", "MH", "MK", "ML", "MN", "MO", "MR", "MT", "MU", "MV", "MW", "MX", "MY", "MZ", "NA", "NE", "NG", "NI", "NL", "NO", "NP", "NR", "NZ", "OM", "PA", "PE", "PG", "PH", "PK", "PL", "PS", "PT", "PW", "PY", "QA", "RO", "RS", "RW", "SA", "SB", "SC", "SE", "SG", "SI", "SK", "SL", "SM", "SN", "SR", "ST", "SV", "SZ", "TD", "TG", "TH", "TJ", "TL", "TN", "TO", "TR", "TT", "TV", "TW", "TZ", "UA", "UG", "UY", "UZ", "VC", "VE", "VN", "VU", "WS", "XK", "ZA", "ZM", "ZW" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/4k3IriR0A3OKY2UzrQ7n7h"
+      },
+      "href" : "https://api.spotify.com/v1/albums/4k3IriR0A3OKY2UzrQ7n7h",
+      "id" : "4k3IriR0A3OKY2UzrQ7n7h",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27356e77b919cd8219ad96fc0de",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0256e77b919cd8219ad96fc0de",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485156e77b919cd8219ad96fc0de",
+        "width" : 64
+      } ],
+      "name" : "Cabaret Metro, Chicago '91 (WXRT Broadcast Remastered)",
+      "release_date" : "2020-09-09",
+      "release_date_precision" : "day",
+      "total_tracks" : 13,
+      "type" : "album",
+      "uri" : "spotify:album:4k3IriR0A3OKY2UzrQ7n7h"
+    }, {
+      "album_group" : "album",
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0YMeriqrS3zgsX24nfY0F0"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0YMeriqrS3zgsX24nfY0F0",
+        "id" : "0YMeriqrS3zgsX24nfY0F0",
+        "name" : "The Tragically Hip",
+        "type" : "artist",
+        "uri" : "spotify:artist:0YMeriqrS3zgsX24nfY0F0"
+      } ],
+      "available_markets" : [ "AD", "AE", "AG", "AL", "AM", "AO", "AR", "AT", "AU", "AZ", "BA", "BB", "BD", "BE", "BF", "BG", "BH", "BI", "BJ", "BN", "BO", "BR", "BS", "BT", "BW", "BY", "BZ", "CA", "CD", "CG", "CH", "CI", "CL", "CM", "CO", "CR", "CV", "CW", "CY", "CZ", "DE", "DJ", "DK", "DM", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FJ", "FM", "FR", "GA", "GB", "GD", "GE", "GH", "GM", "GN", "GQ", "GR", "GT", "GW", "GY", "HK", "HN", "HR", "HT", "HU", "ID", "IE", "IL", "IN", "IQ", "IS", "IT", "JM", "JO", "JP", "KE", "KG", "KH", "KI", "KM", "KN", "KR", "KW", "KZ", "LA", "LB", "LC", "LI", "LK", "LR", "LS", "LT", "LU", "LV", "LY", "MA", "MC", "MD", "ME", "MG", "MH", "MK", "ML", "MN", "MO", "MR", "MT", "MU", "MV", "MW", "MX", "MY", "MZ", "NA", "NE", "NG", "NI", "NL", "NO", "NP", "NR", "NZ", "OM", "PA", "PE", "PG", "PH", "PK", "PL", "PS", "PT", "PW", "PY", "QA", "RO", "RS", "RW", "SA", "SB", "SC", "SE", "SG", "SI", "SK", "SL", "SM", "SN", "SR", "ST", "SV", "SZ", "TD", "TG", "TH", "TJ", "TL", "TN", "TO", "TR", "TT", "TV", "TW", "TZ", "UA", "UG", "US", "UY", "UZ", "VC", "VE", "VN", "VU", "WS", "XK", "ZA", "ZM", "ZW" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/7n8zDZnmmoo7OZv3OkdR7u"
+      },
+      "href" : "https://api.spotify.com/v1/albums/7n8zDZnmmoo7OZv3OkdR7u",
+      "id" : "7n8zDZnmmoo7OZv3OkdR7u",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2733b36762edc87be3731eb9e64",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e023b36762edc87be3731eb9e64",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048513b36762edc87be3731eb9e64",
+        "width" : 64
+      } ],
+      "name" : "Man Machine Poem",
+      "release_date" : "2016-06-17",
+      "release_date_precision" : "day",
+      "total_tracks" : 10,
+      "type" : "album",
+      "uri" : "spotify:album:7n8zDZnmmoo7OZv3OkdR7u"
+    }, {
+      "album_group" : "album",
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0YMeriqrS3zgsX24nfY0F0"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0YMeriqrS3zgsX24nfY0F0",
+        "id" : "0YMeriqrS3zgsX24nfY0F0",
+        "name" : "The Tragically Hip",
+        "type" : "artist",
+        "uri" : "spotify:artist:0YMeriqrS3zgsX24nfY0F0"
+      } ],
+      "available_markets" : [ "AD", "AE", "AG", "AL", "AM", "AO", "AR", "AT", "AU", "AZ", "BA", "BB", "BD", "BE", "BF", "BG", "BH", "BI", "BJ", "BN", "BO", "BR", "BS", "BT", "BW", "BY", "BZ", "CA", "CD", "CG", "CH", "CI", "CL", "CM", "CO", "CR", "CV", "CW", "CY", "CZ", "DE", "DJ", "DK", "DM", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FJ", "FM", "FR", "GA", "GB", "GD", "GE", "GH", "GM", "GN", "GQ", "GR", "GT", "GW", "GY", "HK", "HN", "HR", "HT", "HU", "ID", "IE", "IL", "IN", "IQ", "IS", "IT", "JM", "JO", "JP", "KE", "KG", "KH", "KI", "KM", "KN", "KR", "KW", "KZ", "LA", "LB", "LC", "LI", "LK", "LR", "LS", "LT", "LU", "LV", "LY", "MA", "MC", "MD", "ME", "MG", "MH", "MK", "ML", "MN", "MO", "MR", "MT", "MU", "MV", "MW", "MX", "MY", "MZ", "NA", "NE", "NG", "NI", "NL", "NO", "NP", "NR", "NZ", "OM", "PA", "PE", "PG", "PH", "PK", "PL", "PS", "PT", "PW", "PY", "QA", "RO", "RS", "RW", "SA", "SB", "SC", "SE", "SG", "SI", "SK", "SL", "SM", "SN", "SR", "ST", "SV", "SZ", "TD", "TG", "TH", "TJ", "TL", "TN", "TO", "TR", "TT", "TV", "TW", "TZ", "UA", "UG", "US", "UY", "UZ", "VC", "VE", "VN", "VU", "WS", "XK", "ZA", "ZM", "ZW" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/6dWzo61hYvRtiKDblfwU4C"
+      },
+      "href" : "https://api.spotify.com/v1/albums/6dWzo61hYvRtiKDblfwU4C",
+      "id" : "6dWzo61hYvRtiKDblfwU4C",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27321ec170540a47941b97d649a",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0221ec170540a47941b97d649a",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485121ec170540a47941b97d649a",
+        "width" : 64
+      } ],
+      "name" : "Fully Completely (Deluxe)",
+      "release_date" : "2014-11-17",
+      "release_date_precision" : "day",
+      "total_tracks" : 27,
+      "type" : "album",
+      "uri" : "spotify:album:6dWzo61hYvRtiKDblfwU4C"
+    }, {
+      "album_group" : "album",
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0YMeriqrS3zgsX24nfY0F0"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0YMeriqrS3zgsX24nfY0F0",
+        "id" : "0YMeriqrS3zgsX24nfY0F0",
+        "name" : "The Tragically Hip",
+        "type" : "artist",
+        "uri" : "spotify:artist:0YMeriqrS3zgsX24nfY0F0"
+      } ],
+      "available_markets" : [ "AD", "AL", "AT", "AU", "BA", "BE", "BG", "BY", "CH", "CW", "CY", "CZ", "DE", "DK", "EE", "ES", "FI", "FR", "GB", "GR", "HR", "HU", "IE", "IS", "IT", "LI", "LT", "LU", "LV", "MC", "MD", "ME", "MK", "MT", "NL", "NO", "NZ", "PL", "PT", "RO", "RS", "SE", "SI", "SK", "SM", "UA", "XK" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/7lOYRafGhA4ngjXsjdmQHN"
+      },
+      "href" : "https://api.spotify.com/v1/albums/7lOYRafGhA4ngjXsjdmQHN",
+      "id" : "7lOYRafGhA4ngjXsjdmQHN",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273caf885795fb6ec568ba1c648",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02caf885795fb6ec568ba1c648",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851caf885795fb6ec568ba1c648",
+        "width" : 64
+      } ],
+      "name" : "Now for Plan A",
+      "release_date" : "2012-10-14",
+      "release_date_precision" : "day",
+      "total_tracks" : 11,
+      "type" : "album",
+      "uri" : "spotify:album:7lOYRafGhA4ngjXsjdmQHN"
+    }, {
+      "album_group" : "album",
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0YMeriqrS3zgsX24nfY0F0"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0YMeriqrS3zgsX24nfY0F0",
+        "id" : "0YMeriqrS3zgsX24nfY0F0",
+        "name" : "The Tragically Hip",
+        "type" : "artist",
+        "uri" : "spotify:artist:0YMeriqrS3zgsX24nfY0F0"
+      } ],
+      "available_markets" : [ "AD", "AE", "AG", "AL", "AM", "AO", "AR", "AT", "AU", "AZ", "BA", "BB", "BD", "BE", "BF", "BG", "BH", "BI", "BJ", "BN", "BO", "BR", "BS", "BT", "BW", "BY", "BZ", "CA", "CD", "CG", "CH", "CI", "CL", "CM", "CO", "CR", "CV", "CW", "CY", "CZ", "DE", "DJ", "DK", "DM", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FJ", "FM", "FR", "GA", "GB", "GD", "GE", "GH", "GM", "GN", "GQ", "GR", "GT", "GW", "GY", "HK", "HN", "HR", "HT", "HU", "ID", "IE", "IL", "IN", "IQ", "IS", "IT", "JM", "JO", "JP", "KE", "KG", "KH", "KI", "KM", "KN", "KR", "KW", "KZ", "LA", "LB", "LC", "LI", "LK", "LR", "LS", "LT", "LU", "LV", "LY", "MA", "MC", "MD", "ME", "MG", "MH", "MK", "ML", "MN", "MO", "MR", "MT", "MU", "MV", "MW", "MX", "MY", "MZ", "NA", "NE", "NG", "NI", "NL", "NO", "NP", "NR", "NZ", "OM", "PA", "PE", "PG", "PH", "PK", "PL", "PS", "PT", "PW", "PY", "QA", "RO", "RS", "RW", "SA", "SB", "SC", "SE", "SG", "SI", "SK", "SL", "SM", "SN", "SR", "ST", "SV", "SZ", "TD", "TG", "TH", "TJ", "TL", "TN", "TO", "TR", "TT", "TV", "TW", "TZ", "UA", "UG", "US", "UY", "UZ", "VC", "VE", "VN", "VU", "WS", "XK", "ZA", "ZM", "ZW" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/58DjhjESh15Ms8pJu2yjUB"
+      },
+      "href" : "https://api.spotify.com/v1/albums/58DjhjESh15Ms8pJu2yjUB",
+      "id" : "58DjhjESh15Ms8pJu2yjUB",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273f05197a187ba62e432049082",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02f05197a187ba62e432049082",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851f05197a187ba62e432049082",
+        "width" : 64
+      } ],
+      "name" : "Now For Plan A",
+      "release_date" : "2012-10-02",
+      "release_date_precision" : "day",
+      "total_tracks" : 11,
+      "type" : "album",
+      "uri" : "spotify:album:58DjhjESh15Ms8pJu2yjUB"
+    }, {
+      "album_group" : "album",
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0YMeriqrS3zgsX24nfY0F0"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0YMeriqrS3zgsX24nfY0F0",
+        "id" : "0YMeriqrS3zgsX24nfY0F0",
+        "name" : "The Tragically Hip",
+        "type" : "artist",
+        "uri" : "spotify:artist:0YMeriqrS3zgsX24nfY0F0"
+      } ],
+      "available_markets" : [ "CA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/2Ckj5o0evvJE0oimf3Tvj4"
+      },
+      "href" : "https://api.spotify.com/v1/albums/2Ckj5o0evvJE0oimf3Tvj4",
+      "id" : "2Ckj5o0evvJE0oimf3Tvj4",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273a922ae4dcc4d335f29aa6d05",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02a922ae4dcc4d335f29aa6d05",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851a922ae4dcc4d335f29aa6d05",
+        "width" : 64
+      } ],
+      "name" : "Live From The Vault (Volume 4 - La Luna - Brussels Belgium - December 5, 1994)",
+      "release_date" : "2009-01-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 15,
+      "type" : "album",
+      "uri" : "spotify:album:2Ckj5o0evvJE0oimf3Tvj4"
+    }, {
+      "album_group" : "album",
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0YMeriqrS3zgsX24nfY0F0"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0YMeriqrS3zgsX24nfY0F0",
+        "id" : "0YMeriqrS3zgsX24nfY0F0",
+        "name" : "The Tragically Hip",
+        "type" : "artist",
+        "uri" : "spotify:artist:0YMeriqrS3zgsX24nfY0F0"
+      } ],
+      "available_markets" : [ "CA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/0Ef5LyxsEYepSROsnutNLz"
+      },
+      "href" : "https://api.spotify.com/v1/albums/0Ef5LyxsEYepSROsnutNLz",
+      "id" : "0Ef5LyxsEYepSROsnutNLz",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2736758560f41c45712924492fe",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e026758560f41c45712924492fe",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048516758560f41c45712924492fe",
+        "width" : 64
+      } ],
+      "name" : "Live From The Vault (Volume 5 - Avalon, Los Angeles - October 6, 2004)",
+      "release_date" : "2009-01-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 23,
+      "type" : "album",
+      "uri" : "spotify:album:0Ef5LyxsEYepSROsnutNLz"
+    }, {
+      "album_group" : "album",
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0YMeriqrS3zgsX24nfY0F0"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0YMeriqrS3zgsX24nfY0F0",
+        "id" : "0YMeriqrS3zgsX24nfY0F0",
+        "name" : "The Tragically Hip",
+        "type" : "artist",
+        "uri" : "spotify:artist:0YMeriqrS3zgsX24nfY0F0"
+      } ],
+      "available_markets" : [ "CA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/0568kcot8qEEtSyZjGPW4s"
+      },
+      "href" : "https://api.spotify.com/v1/albums/0568kcot8qEEtSyZjGPW4s",
+      "id" : "0568kcot8qEEtSyZjGPW4s",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2739c74139c0dd6e6717f53d4c1",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e029c74139c0dd6e6717f53d4c1",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048519c74139c0dd6e6717f53d4c1",
+        "width" : 64
+      } ],
+      "name" : "We Are The Same",
+      "release_date" : "2009-01-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 13,
+      "type" : "album",
+      "uri" : "spotify:album:0568kcot8qEEtSyZjGPW4s"
+    }, {
+      "album_group" : "album",
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0YMeriqrS3zgsX24nfY0F0"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0YMeriqrS3zgsX24nfY0F0",
+        "id" : "0YMeriqrS3zgsX24nfY0F0",
+        "name" : "The Tragically Hip",
+        "type" : "artist",
+        "uri" : "spotify:artist:0YMeriqrS3zgsX24nfY0F0"
+      } ],
+      "available_markets" : [ "AD", "AE", "AG", "AL", "AM", "AO", "AR", "AT", "AU", "AZ", "BA", "BB", "BD", "BE", "BF", "BG", "BH", "BI", "BJ", "BN", "BO", "BR", "BS", "BT", "BW", "BY", "BZ", "CA", "CD", "CG", "CH", "CI", "CL", "CM", "CO", "CR", "CV", "CW", "CY", "CZ", "DE", "DJ", "DK", "DM", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FJ", "FM", "FR", "GA", "GB", "GD", "GE", "GH", "GM", "GN", "GQ", "GR", "GT", "GW", "GY", "HK", "HN", "HR", "HT", "HU", "ID", "IE", "IL", "IN", "IQ", "IS", "IT", "JM", "JO", "JP", "KE", "KG", "KH", "KI", "KM", "KN", "KR", "KW", "KZ", "LA", "LB", "LC", "LI", "LK", "LR", "LS", "LT", "LU", "LV", "LY", "MA", "MC", "MD", "ME", "MG", "MH", "MK", "ML", "MN", "MO", "MR", "MT", "MU", "MV", "MW", "MX", "MY", "MZ", "NA", "NE", "NG", "NI", "NL", "NO", "NP", "NR", "NZ", "OM", "PA", "PE", "PG", "PH", "PK", "PL", "PS", "PT", "PW", "PY", "QA", "RO", "RS", "RW", "SA", "SB", "SC", "SE", "SG", "SI", "SK", "SL", "SM", "SN", "SR", "ST", "SV", "SZ", "TD", "TG", "TH", "TJ", "TL", "TN", "TO", "TR", "TT", "TV", "TW", "TZ", "UA", "UG", "US", "UY", "UZ", "VC", "VE", "VN", "VU", "WS", "XK", "ZA", "ZM", "ZW" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/7mMiw4UfyLUXO500JB31ye"
+      },
+      "href" : "https://api.spotify.com/v1/albums/7mMiw4UfyLUXO500JB31ye",
+      "id" : "7mMiw4UfyLUXO500JB31ye",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27360ab2aee9f67cd19ef57a84b",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0260ab2aee9f67cd19ef57a84b",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485160ab2aee9f67cd19ef57a84b",
+        "width" : 64
+      } ],
+      "name" : "We Are The Same",
+      "release_date" : "2009-01-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 12,
+      "type" : "album",
+      "uri" : "spotify:album:7mMiw4UfyLUXO500JB31ye"
+    }, {
+      "album_group" : "album",
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0YMeriqrS3zgsX24nfY0F0"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0YMeriqrS3zgsX24nfY0F0",
+        "id" : "0YMeriqrS3zgsX24nfY0F0",
+        "name" : "The Tragically Hip",
+        "type" : "artist",
+        "uri" : "spotify:artist:0YMeriqrS3zgsX24nfY0F0"
+      } ],
+      "available_markets" : [ "CA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/5W2ractcP5gBYBFF4XjUuu"
+      },
+      "href" : "https://api.spotify.com/v1/albums/5W2ractcP5gBYBFF4XjUuu",
+      "id" : "5W2ractcP5gBYBFF4XjUuu",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2731fe92a95d5f2d764a2b96f36",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e021fe92a95d5f2d764a2b96f36",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048511fe92a95d5f2d764a2b96f36",
+        "width" : 64
+      } ],
+      "name" : "Live From The Vault (Volume 1 - Metro Centre - Halifax Nova Scotia - February 2, 1995)",
+      "release_date" : "2008-01-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 20,
+      "type" : "album",
+      "uri" : "spotify:album:5W2ractcP5gBYBFF4XjUuu"
+    }, {
+      "album_group" : "album",
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0YMeriqrS3zgsX24nfY0F0"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0YMeriqrS3zgsX24nfY0F0",
+        "id" : "0YMeriqrS3zgsX24nfY0F0",
+        "name" : "The Tragically Hip",
+        "type" : "artist",
+        "uri" : "spotify:artist:0YMeriqrS3zgsX24nfY0F0"
+      } ],
+      "available_markets" : [ "CA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/1cuAGadCZ7eiygNMbOAUdl"
+      },
+      "href" : "https://api.spotify.com/v1/albums/1cuAGadCZ7eiygNMbOAUdl",
+      "id" : "1cuAGadCZ7eiygNMbOAUdl",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27398e8a406d099c184073c2c52",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0298e8a406d099c184073c2c52",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485198e8a406d099c184073c2c52",
+        "width" : 64
+      } ],
+      "name" : "Live From The Vault (Volume 2 - Stubb's BBQ - Austin Texas - October 26, 2002)",
+      "release_date" : "2008-01-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 19,
+      "type" : "album",
+      "uri" : "spotify:album:1cuAGadCZ7eiygNMbOAUdl"
+    }, {
+      "album_group" : "album",
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0YMeriqrS3zgsX24nfY0F0"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0YMeriqrS3zgsX24nfY0F0",
+        "id" : "0YMeriqrS3zgsX24nfY0F0",
+        "name" : "The Tragically Hip",
+        "type" : "artist",
+        "uri" : "spotify:artist:0YMeriqrS3zgsX24nfY0F0"
+      } ],
+      "available_markets" : [ "CA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/1OvgkveMKDrtitpJLscIxs"
+      },
+      "href" : "https://api.spotify.com/v1/albums/1OvgkveMKDrtitpJLscIxs",
+      "id" : "1OvgkveMKDrtitpJLscIxs",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2733c953b8ac4ac705cf439622d",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e023c953b8ac4ac705cf439622d",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048513c953b8ac4ac705cf439622d",
+        "width" : 64
+      } ],
+      "name" : "Live From The Vault (Volume 3 - Copps Coliseum - Hamilton Ontario - February 6, 2007)",
+      "release_date" : "2008-01-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 22,
+      "type" : "album",
+      "uri" : "spotify:album:1OvgkveMKDrtitpJLscIxs"
+    }, {
+      "album_group" : "album",
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0YMeriqrS3zgsX24nfY0F0"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0YMeriqrS3zgsX24nfY0F0",
+        "id" : "0YMeriqrS3zgsX24nfY0F0",
+        "name" : "The Tragically Hip",
+        "type" : "artist",
+        "uri" : "spotify:artist:0YMeriqrS3zgsX24nfY0F0"
+      } ],
+      "available_markets" : [ "CA", "CR", "MX", "US" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/1ntiSixAO9IbUirqXrdBhN"
+      },
+      "href" : "https://api.spotify.com/v1/albums/1ntiSixAO9IbUirqXrdBhN",
+      "id" : "1ntiSixAO9IbUirqXrdBhN",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273f866c8dbed5a905ab1c4ceb1",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02f866c8dbed5a905ab1c4ceb1",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851f866c8dbed5a905ab1c4ceb1",
+        "width" : 64
+      } ],
+      "name" : "Live at Austin City Limits Music Festival 2006: The Tragically Hip",
+      "release_date" : "2006-01-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 7,
+      "type" : "album",
+      "uri" : "spotify:album:1ntiSixAO9IbUirqXrdBhN"
+    }, {
+      "album_group" : "album",
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0YMeriqrS3zgsX24nfY0F0"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0YMeriqrS3zgsX24nfY0F0",
+        "id" : "0YMeriqrS3zgsX24nfY0F0",
+        "name" : "The Tragically Hip",
+        "type" : "artist",
+        "uri" : "spotify:artist:0YMeriqrS3zgsX24nfY0F0"
+      } ],
+      "available_markets" : [ "AD", "AE", "AG", "AL", "AM", "AO", "AR", "AT", "AU", "AZ", "BA", "BB", "BD", "BE", "BF", "BG", "BH", "BI", "BJ", "BN", "BO", "BR", "BS", "BT", "BW", "BY", "BZ", "CA", "CD", "CG", "CH", "CI", "CL", "CM", "CO", "CR", "CV", "CW", "CY", "CZ", "DE", "DJ", "DK", "DM", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FJ", "FM", "FR", "GA", "GB", "GD", "GE", "GH", "GM", "GN", "GQ", "GR", "GT", "GW", "GY", "HK", "HN", "HR", "HT", "HU", "ID", "IE", "IL", "IN", "IQ", "IS", "IT", "JM", "JO", "JP", "KE", "KG", "KH", "KI", "KM", "KN", "KR", "KW", "KZ", "LA", "LB", "LC", "LI", "LK", "LR", "LS", "LT", "LU", "LV", "LY", "MA", "MC", "MD", "ME", "MG", "MH", "MK", "ML", "MN", "MO", "MR", "MT", "MU", "MV", "MW", "MX", "MY", "MZ", "NA", "NE", "NG", "NI", "NL", "NO", "NP", "NR", "NZ", "OM", "PA", "PE", "PG", "PH", "PK", "PL", "PS", "PT", "PW", "PY", "QA", "RO", "RS", "RW", "SA", "SB", "SC", "SE", "SG", "SI", "SK", "SL", "SM", "SN", "SR", "ST", "SV", "SZ", "TD", "TG", "TH", "TJ", "TL", "TN", "TO", "TR", "TT", "TV", "TW", "TZ", "UA", "UG", "US", "UY", "UZ", "VC", "VE", "VN", "VU", "WS", "XK", "ZA", "ZM", "ZW" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/4EMDD5Pi0mPIHQB3sGPUW0"
+      },
+      "href" : "https://api.spotify.com/v1/albums/4EMDD5Pi0mPIHQB3sGPUW0",
+      "id" : "4EMDD5Pi0mPIHQB3sGPUW0",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2730558938407079f940728bebb",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e020558938407079f940728bebb",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048510558938407079f940728bebb",
+        "width" : 64
+      } ],
+      "name" : "World Container",
+      "release_date" : "2006-01-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 11,
+      "type" : "album",
+      "uri" : "spotify:album:4EMDD5Pi0mPIHQB3sGPUW0"
+    }, {
+      "album_group" : "album",
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0YMeriqrS3zgsX24nfY0F0"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0YMeriqrS3zgsX24nfY0F0",
+        "id" : "0YMeriqrS3zgsX24nfY0F0",
+        "name" : "The Tragically Hip",
+        "type" : "artist",
+        "uri" : "spotify:artist:0YMeriqrS3zgsX24nfY0F0"
+      } ],
+      "available_markets" : [ "CA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/4ju2nuJmcJeJWLFMUkJ11H"
+      },
+      "href" : "https://api.spotify.com/v1/albums/4ju2nuJmcJeJWLFMUkJ11H",
+      "id" : "4ju2nuJmcJeJWLFMUkJ11H",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27395bb96e09c2b88032c8de028",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0295bb96e09c2b88032c8de028",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485195bb96e09c2b88032c8de028",
+        "width" : 64
+      } ],
+      "name" : "World Container",
+      "release_date" : "2006-01-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 11,
+      "type" : "album",
+      "uri" : "spotify:album:4ju2nuJmcJeJWLFMUkJ11H"
+    }, {
+      "album_group" : "album",
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0YMeriqrS3zgsX24nfY0F0"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0YMeriqrS3zgsX24nfY0F0",
+        "id" : "0YMeriqrS3zgsX24nfY0F0",
+        "name" : "The Tragically Hip",
+        "type" : "artist",
+        "uri" : "spotify:artist:0YMeriqrS3zgsX24nfY0F0"
+      } ],
+      "available_markets" : [ "US" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/13UaBAJhJVytV2aJAVHFWD"
+      },
+      "href" : "https://api.spotify.com/v1/albums/13UaBAJhJVytV2aJAVHFWD",
+      "id" : "13UaBAJhJVytV2aJAVHFWD",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273c16805fab763fc3ebeb2fe68",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02c16805fab763fc3ebeb2fe68",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851c16805fab763fc3ebeb2fe68",
+        "width" : 64
+      } ],
+      "name" : "World Container (International Version)",
+      "release_date" : "2006",
+      "release_date_precision" : "year",
+      "total_tracks" : 11,
+      "type" : "album",
+      "uri" : "spotify:album:13UaBAJhJVytV2aJAVHFWD"
+    }, {
+      "album_group" : "album",
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0YMeriqrS3zgsX24nfY0F0"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0YMeriqrS3zgsX24nfY0F0",
+        "id" : "0YMeriqrS3zgsX24nfY0F0",
+        "name" : "The Tragically Hip",
+        "type" : "artist",
+        "uri" : "spotify:artist:0YMeriqrS3zgsX24nfY0F0"
+      } ],
+      "available_markets" : [ "AD", "AE", "AG", "AL", "AM", "AO", "AR", "AT", "AU", "AZ", "BA", "BB", "BD", "BE", "BF", "BG", "BH", "BI", "BJ", "BN", "BO", "BR", "BS", "BT", "BW", "BY", "BZ", "CA", "CD", "CG", "CH", "CI", "CL", "CM", "CO", "CR", "CV", "CW", "CY", "CZ", "DE", "DJ", "DK", "DM", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FJ", "FM", "FR", "GA", "GB", "GD", "GE", "GH", "GM", "GN", "GQ", "GR", "GT", "GW", "GY", "HK", "HN", "HR", "HT", "HU", "ID", "IE", "IL", "IN", "IQ", "IS", "IT", "JM", "JO", "JP", "KE", "KG", "KH", "KI", "KM", "KN", "KR", "KW", "KZ", "LA", "LB", "LC", "LI", "LK", "LR", "LS", "LT", "LU", "LV", "LY", "MA", "MC", "MD", "ME", "MG", "MH", "MK", "ML", "MN", "MO", "MR", "MT", "MU", "MV", "MW", "MX", "MY", "MZ", "NA", "NE", "NG", "NI", "NL", "NO", "NP", "NR", "NZ", "OM", "PA", "PE", "PG", "PH", "PK", "PL", "PS", "PT", "PW", "PY", "QA", "RO", "RS", "RW", "SA", "SB", "SC", "SE", "SG", "SI", "SK", "SL", "SM", "SN", "SR", "ST", "SV", "SZ", "TD", "TG", "TH", "TJ", "TL", "TN", "TO", "TR", "TT", "TV", "TW", "TZ", "UA", "UG", "US", "UY", "UZ", "VC", "VE", "VN", "VU", "WS", "XK", "ZA", "ZM", "ZW" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/6tcv9H1TNubc9o0gy2eIAG"
+      },
+      "href" : "https://api.spotify.com/v1/albums/6tcv9H1TNubc9o0gy2eIAG",
+      "id" : "6tcv9H1TNubc9o0gy2eIAG",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273e569c534ff745783a15034b7",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02e569c534ff745783a15034b7",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851e569c534ff745783a15034b7",
+        "width" : 64
+      } ],
+      "name" : "Yer Favourites",
+      "release_date" : "2005-11-08",
+      "release_date_precision" : "day",
+      "total_tracks" : 37,
+      "type" : "album",
+      "uri" : "spotify:album:6tcv9H1TNubc9o0gy2eIAG"
+    }, {
+      "album_group" : "album",
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0YMeriqrS3zgsX24nfY0F0"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0YMeriqrS3zgsX24nfY0F0",
+        "id" : "0YMeriqrS3zgsX24nfY0F0",
+        "name" : "The Tragically Hip",
+        "type" : "artist",
+        "uri" : "spotify:artist:0YMeriqrS3zgsX24nfY0F0"
+      } ],
+      "available_markets" : [ "CA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/2FI07Cg55A8xTuowS3uprb"
+      },
+      "href" : "https://api.spotify.com/v1/albums/2FI07Cg55A8xTuowS3uprb",
+      "id" : "2FI07Cg55A8xTuowS3uprb",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273a2f41969f3a688939f0d202a",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02a2f41969f3a688939f0d202a",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851a2f41969f3a688939f0d202a",
+        "width" : 64
+      } ],
+      "name" : "That Night In Toronto (Live)",
+      "release_date" : "2005-01-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 24,
+      "type" : "album",
+      "uri" : "spotify:album:2FI07Cg55A8xTuowS3uprb"
+    }, {
+      "album_group" : "album",
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0YMeriqrS3zgsX24nfY0F0"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0YMeriqrS3zgsX24nfY0F0",
+        "id" : "0YMeriqrS3zgsX24nfY0F0",
+        "name" : "The Tragically Hip",
+        "type" : "artist",
+        "uri" : "spotify:artist:0YMeriqrS3zgsX24nfY0F0"
+      } ],
+      "available_markets" : [ "CA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/6de5xkg27c2immMuN4U7E0"
+      },
+      "href" : "https://api.spotify.com/v1/albums/6de5xkg27c2immMuN4U7E0",
+      "id" : "6de5xkg27c2immMuN4U7E0",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273163d26a5807be8a91a7c489f",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02163d26a5807be8a91a7c489f",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851163d26a5807be8a91a7c489f",
+        "width" : 64
+      } ],
+      "name" : "That Night In Toronto (Live) [Disc 1]",
+      "release_date" : "2005-01-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 12,
+      "type" : "album",
+      "uri" : "spotify:album:6de5xkg27c2immMuN4U7E0"
+    }, {
+      "album_group" : "album",
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0YMeriqrS3zgsX24nfY0F0"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0YMeriqrS3zgsX24nfY0F0",
+        "id" : "0YMeriqrS3zgsX24nfY0F0",
+        "name" : "The Tragically Hip",
+        "type" : "artist",
+        "uri" : "spotify:artist:0YMeriqrS3zgsX24nfY0F0"
+      } ],
+      "available_markets" : [ "AD", "AE", "AG", "AL", "AM", "AO", "AR", "AT", "AU", "AZ", "BA", "BB", "BD", "BE", "BF", "BG", "BH", "BI", "BJ", "BN", "BO", "BR", "BS", "BT", "BW", "BY", "BZ", "CA", "CD", "CG", "CH", "CI", "CL", "CM", "CO", "CR", "CV", "CW", "CY", "CZ", "DE", "DJ", "DK", "DM", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FJ", "FM", "FR", "GA", "GB", "GD", "GE", "GH", "GM", "GN", "GQ", "GR", "GT", "GW", "GY", "HK", "HN", "HR", "HT", "HU", "ID", "IE", "IL", "IN", "IQ", "IS", "IT", "JM", "JO", "JP", "KE", "KG", "KH", "KI", "KM", "KN", "KR", "KW", "KZ", "LA", "LB", "LC", "LI", "LK", "LR", "LS", "LT", "LU", "LV", "LY", "MA", "MC", "MD", "ME", "MG", "MH", "MK", "ML", "MN", "MO", "MR", "MT", "MU", "MV", "MW", "MX", "MY", "MZ", "NA", "NE", "NG", "NI", "NL", "NO", "NP", "NR", "NZ", "OM", "PA", "PE", "PG", "PH", "PK", "PL", "PS", "PT", "PW", "PY", "QA", "RO", "RS", "RW", "SA", "SB", "SC", "SE", "SG", "SI", "SK", "SL", "SM", "SN", "SR", "ST", "SV", "SZ", "TD", "TG", "TH", "TJ", "TL", "TN", "TO", "TR", "TT", "TV", "TW", "TZ", "UA", "UG", "US", "UY", "UZ", "VC", "VE", "VN", "VU", "WS", "XK", "ZA", "ZM", "ZW" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/4gasnW501ssEcS9bX3UVel"
+      },
+      "href" : "https://api.spotify.com/v1/albums/4gasnW501ssEcS9bX3UVel",
+      "id" : "4gasnW501ssEcS9bX3UVel",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27307bf6a32d03c3fd4035504af",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0207bf6a32d03c3fd4035504af",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485107bf6a32d03c3fd4035504af",
+        "width" : 64
+      } ],
+      "name" : "In Between Evolution",
+      "release_date" : "2004-01-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 13,
+      "type" : "album",
+      "uri" : "spotify:album:4gasnW501ssEcS9bX3UVel"
+    }, {
+      "album_group" : "album",
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0YMeriqrS3zgsX24nfY0F0"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0YMeriqrS3zgsX24nfY0F0",
+        "id" : "0YMeriqrS3zgsX24nfY0F0",
+        "name" : "The Tragically Hip",
+        "type" : "artist",
+        "uri" : "spotify:artist:0YMeriqrS3zgsX24nfY0F0"
+      } ],
+      "available_markets" : [ "AD", "AE", "AG", "AL", "AM", "AO", "AR", "AT", "AU", "AZ", "BA", "BB", "BD", "BE", "BF", "BG", "BH", "BI", "BJ", "BN", "BO", "BR", "BS", "BT", "BW", "BY", "BZ", "CA", "CD", "CG", "CH", "CI", "CL", "CM", "CO", "CR", "CV", "CW", "CY", "CZ", "DE", "DJ", "DK", "DM", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FJ", "FM", "FR", "GA", "GB", "GD", "GE", "GH", "GM", "GN", "GQ", "GR", "GT", "GW", "GY", "HK", "HN", "HR", "HT", "HU", "ID", "IE", "IL", "IN", "IQ", "IS", "IT", "JM", "JO", "JP", "KE", "KG", "KH", "KI", "KM", "KN", "KR", "KW", "KZ", "LA", "LB", "LC", "LI", "LK", "LR", "LS", "LT", "LU", "LV", "LY", "MA", "MC", "MD", "ME", "MG", "MH", "MK", "ML", "MN", "MO", "MR", "MT", "MU", "MV", "MW", "MX", "MY", "MZ", "NA", "NE", "NG", "NI", "NL", "NO", "NP", "NR", "NZ", "OM", "PA", "PE", "PG", "PH", "PK", "PL", "PS", "PT", "PW", "PY", "QA", "RO", "RS", "RW", "SA", "SB", "SC", "SE", "SG", "SI", "SK", "SL", "SM", "SN", "SR", "ST", "SV", "SZ", "TD", "TG", "TH", "TJ", "TL", "TN", "TO", "TR", "TT", "TV", "TW", "TZ", "UA", "UG", "US", "UY", "UZ", "VC", "VE", "VN", "VU", "WS", "XK", "ZA", "ZM", "ZW" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/6ELgeslYai1AYmzrehK2vn"
+      },
+      "href" : "https://api.spotify.com/v1/albums/6ELgeslYai1AYmzrehK2vn",
+      "id" : "6ELgeslYai1AYmzrehK2vn",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273a3b2a9dd2448cb2223d377b8",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02a3b2a9dd2448cb2223d377b8",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851a3b2a9dd2448cb2223d377b8",
+        "width" : 64
+      } ],
+      "name" : "In Violet Light",
+      "release_date" : "2002-01-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 11,
+      "type" : "album",
+      "uri" : "spotify:album:6ELgeslYai1AYmzrehK2vn"
+    }, {
+      "album_group" : "album",
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0YMeriqrS3zgsX24nfY0F0"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0YMeriqrS3zgsX24nfY0F0",
+        "id" : "0YMeriqrS3zgsX24nfY0F0",
+        "name" : "The Tragically Hip",
+        "type" : "artist",
+        "uri" : "spotify:artist:0YMeriqrS3zgsX24nfY0F0"
+      } ],
+      "available_markets" : [ "AD", "AE", "AG", "AL", "AM", "AO", "AR", "AT", "AU", "AZ", "BA", "BB", "BD", "BE", "BF", "BG", "BH", "BI", "BJ", "BN", "BO", "BR", "BS", "BT", "BW", "BY", "BZ", "CA", "CD", "CG", "CH", "CI", "CL", "CM", "CO", "CR", "CV", "CW", "CY", "CZ", "DE", "DJ", "DK", "DM", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FJ", "FM", "FR", "GA", "GB", "GD", "GE", "GH", "GM", "GN", "GQ", "GR", "GT", "GW", "GY", "HK", "HN", "HR", "HT", "HU", "ID", "IE", "IL", "IN", "IQ", "IS", "IT", "JM", "JO", "JP", "KE", "KG", "KH", "KI", "KM", "KN", "KR", "KW", "KZ", "LA", "LB", "LC", "LI", "LK", "LR", "LS", "LT", "LU", "LV", "LY", "MA", "MC", "MD", "ME", "MG", "MH", "MK", "ML", "MN", "MO", "MR", "MT", "MU", "MV", "MW", "MX", "MY", "MZ", "NA", "NE", "NG", "NI", "NL", "NO", "NP", "NR", "NZ", "OM", "PA", "PE", "PG", "PH", "PK", "PL", "PS", "PT", "PW", "PY", "QA", "RO", "RS", "RW", "SA", "SB", "SC", "SE", "SG", "SI", "SK", "SL", "SM", "SN", "SR", "ST", "SV", "SZ", "TD", "TG", "TH", "TJ", "TL", "TN", "TO", "TR", "TT", "TV", "TW", "TZ", "UA", "UG", "US", "UY", "UZ", "VC", "VE", "VN", "VU", "WS", "XK", "ZA", "ZM", "ZW" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/1HUCg8G3crYzn2sGujgSho"
+      },
+      "href" : "https://api.spotify.com/v1/albums/1HUCg8G3crYzn2sGujgSho",
+      "id" : "1HUCg8G3crYzn2sGujgSho",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273da3ee9813d4bd610a02f773a",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02da3ee9813d4bd610a02f773a",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851da3ee9813d4bd610a02f773a",
+        "width" : 64
+      } ],
+      "name" : "Music@Work",
+      "release_date" : "2000-01-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 14,
+      "type" : "album",
+      "uri" : "spotify:album:1HUCg8G3crYzn2sGujgSho"
+    }, {
+      "album_group" : "album",
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0YMeriqrS3zgsX24nfY0F0"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0YMeriqrS3zgsX24nfY0F0",
+        "id" : "0YMeriqrS3zgsX24nfY0F0",
+        "name" : "The Tragically Hip",
+        "type" : "artist",
+        "uri" : "spotify:artist:0YMeriqrS3zgsX24nfY0F0"
+      } ],
+      "available_markets" : [ "AD", "AE", "AG", "AL", "AM", "AO", "AR", "AT", "AU", "AZ", "BA", "BB", "BD", "BE", "BF", "BG", "BH", "BI", "BJ", "BN", "BO", "BR", "BS", "BT", "BW", "BY", "BZ", "CA", "CD", "CG", "CH", "CI", "CL", "CM", "CO", "CR", "CV", "CW", "CY", "CZ", "DE", "DJ", "DK", "DM", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FJ", "FM", "FR", "GA", "GB", "GD", "GE", "GH", "GM", "GN", "GQ", "GR", "GT", "GW", "GY", "HK", "HN", "HR", "HT", "HU", "ID", "IE", "IL", "IN", "IQ", "IS", "IT", "JM", "JO", "JP", "KE", "KG", "KH", "KI", "KM", "KN", "KR", "KW", "KZ", "LA", "LB", "LC", "LI", "LK", "LR", "LS", "LT", "LU", "LV", "LY", "MA", "MC", "MD", "ME", "MG", "MH", "MK", "ML", "MN", "MO", "MR", "MT", "MU", "MV", "MW", "MX", "MY", "MZ", "NA", "NE", "NG", "NI", "NL", "NO", "NP", "NR", "NZ", "OM", "PA", "PE", "PG", "PH", "PK", "PL", "PS", "PT", "PW", "PY", "QA", "RO", "RS", "RW", "SA", "SB", "SC", "SE", "SG", "SI", "SK", "SL", "SM", "SN", "SR", "ST", "SV", "SZ", "TD", "TG", "TH", "TJ", "TL", "TN", "TO", "TR", "TT", "TV", "TW", "TZ", "UA", "UG", "US", "UY", "UZ", "VC", "VE", "VN", "VU", "WS", "XK", "ZA", "ZM", "ZW" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/3HWQXn3dGZPSnIhVkvHIOz"
+      },
+      "href" : "https://api.spotify.com/v1/albums/3HWQXn3dGZPSnIhVkvHIOz",
+      "id" : "3HWQXn3dGZPSnIhVkvHIOz",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2731936b36d0c860aaa921b128d",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e021936b36d0c860aaa921b128d",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048511936b36d0c860aaa921b128d",
+        "width" : 64
+      } ],
+      "name" : "Phantom Power",
+      "release_date" : "1998-01-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 12,
+      "type" : "album",
+      "uri" : "spotify:album:3HWQXn3dGZPSnIhVkvHIOz"
+    }, {
+      "album_group" : "album",
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0YMeriqrS3zgsX24nfY0F0"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0YMeriqrS3zgsX24nfY0F0",
+        "id" : "0YMeriqrS3zgsX24nfY0F0",
+        "name" : "The Tragically Hip",
+        "type" : "artist",
+        "uri" : "spotify:artist:0YMeriqrS3zgsX24nfY0F0"
+      } ],
+      "available_markets" : [ "CA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/558eoEvugGZFueHv82gjM4"
+      },
+      "href" : "https://api.spotify.com/v1/albums/558eoEvugGZFueHv82gjM4",
+      "id" : "558eoEvugGZFueHv82gjM4",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273759317fe2f29f875ef29771b",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02759317fe2f29f875ef29771b",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851759317fe2f29f875ef29771b",
+        "width" : 64
+      } ],
+      "name" : "Live Between Us (Live at the Cobo Arena, Detroit/1996)",
+      "release_date" : "1997",
+      "release_date_precision" : "year",
+      "total_tracks" : 14,
+      "type" : "album",
+      "uri" : "spotify:album:558eoEvugGZFueHv82gjM4"
+    }, {
+      "album_group" : "album",
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0YMeriqrS3zgsX24nfY0F0"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0YMeriqrS3zgsX24nfY0F0",
+        "id" : "0YMeriqrS3zgsX24nfY0F0",
+        "name" : "The Tragically Hip",
+        "type" : "artist",
+        "uri" : "spotify:artist:0YMeriqrS3zgsX24nfY0F0"
+      } ],
+      "available_markets" : [ "AD", "AE", "AG", "AL", "AM", "AO", "AR", "AT", "AU", "AZ", "BA", "BB", "BD", "BE", "BF", "BG", "BH", "BI", "BJ", "BN", "BO", "BR", "BS", "BT", "BW", "BY", "BZ", "CA", "CD", "CG", "CH", "CI", "CL", "CM", "CO", "CR", "CV", "CW", "CY", "CZ", "DE", "DJ", "DK", "DM", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FJ", "FM", "FR", "GA", "GB", "GD", "GE", "GH", "GM", "GN", "GQ", "GR", "GT", "GW", "GY", "HK", "HN", "HR", "HT", "HU", "ID", "IE", "IL", "IN", "IQ", "IS", "IT", "JM", "JO", "JP", "KE", "KG", "KH", "KI", "KM", "KN", "KR", "KW", "KZ", "LA", "LB", "LC", "LI", "LK", "LR", "LS", "LT", "LU", "LV", "LY", "MA", "MC", "MD", "ME", "MG", "MH", "MK", "ML", "MN", "MO", "MR", "MT", "MU", "MV", "MW", "MX", "MY", "MZ", "NA", "NE", "NG", "NI", "NL", "NO", "NP", "NR", "NZ", "OM", "PA", "PE", "PG", "PH", "PK", "PL", "PS", "PT", "PW", "PY", "QA", "RO", "RS", "RW", "SA", "SB", "SC", "SE", "SG", "SI", "SK", "SL", "SM", "SN", "SR", "ST", "SV", "SZ", "TD", "TG", "TH", "TJ", "TL", "TN", "TO", "TR", "TT", "TV", "TW", "TZ", "UA", "UG", "US", "UY", "UZ", "VC", "VE", "VN", "VU", "WS", "XK", "ZA", "ZM", "ZW" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/4TDw74VAtcfQgE7Db59sqt"
+      },
+      "href" : "https://api.spotify.com/v1/albums/4TDw74VAtcfQgE7Db59sqt",
+      "id" : "4TDw74VAtcfQgE7Db59sqt",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27329aa3dd7180cdb534f2e4e1a",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0229aa3dd7180cdb534f2e4e1a",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485129aa3dd7180cdb534f2e4e1a",
+        "width" : 64
+      } ],
+      "name" : "Live Between Us",
+      "release_date" : "1996-05-24",
+      "release_date_precision" : "day",
+      "total_tracks" : 14,
+      "type" : "album",
+      "uri" : "spotify:album:4TDw74VAtcfQgE7Db59sqt"
+    }, {
+      "album_group" : "album",
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0YMeriqrS3zgsX24nfY0F0"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0YMeriqrS3zgsX24nfY0F0",
+        "id" : "0YMeriqrS3zgsX24nfY0F0",
+        "name" : "The Tragically Hip",
+        "type" : "artist",
+        "uri" : "spotify:artist:0YMeriqrS3zgsX24nfY0F0"
+      } ],
+      "available_markets" : [ "AD", "AE", "AG", "AL", "AM", "AO", "AR", "AT", "AU", "AZ", "BA", "BB", "BD", "BE", "BF", "BG", "BH", "BI", "BJ", "BN", "BO", "BR", "BS", "BT", "BW", "BY", "BZ", "CA", "CD", "CG", "CH", "CI", "CL", "CM", "CO", "CR", "CV", "CW", "CY", "CZ", "DE", "DJ", "DK", "DM", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FJ", "FM", "FR", "GA", "GB", "GD", "GE", "GH", "GM", "GN", "GQ", "GR", "GT", "GW", "GY", "HK", "HN", "HR", "HT", "HU", "ID", "IE", "IL", "IN", "IQ", "IS", "IT", "JM", "JO", "JP", "KE", "KG", "KH", "KI", "KM", "KN", "KR", "KW", "KZ", "LA", "LB", "LC", "LI", "LK", "LR", "LS", "LT", "LU", "LV", "LY", "MA", "MC", "MD", "ME", "MG", "MH", "MK", "ML", "MN", "MO", "MR", "MT", "MU", "MV", "MW", "MX", "MY", "MZ", "NA", "NE", "NG", "NI", "NL", "NO", "NP", "NR", "NZ", "OM", "PA", "PE", "PG", "PH", "PK", "PL", "PS", "PT", "PW", "PY", "QA", "RO", "RS", "RW", "SA", "SB", "SC", "SE", "SG", "SI", "SK", "SL", "SM", "SN", "SR", "ST", "SV", "SZ", "TD", "TG", "TH", "TJ", "TL", "TN", "TO", "TR", "TT", "TV", "TW", "TZ", "UA", "UG", "US", "UY", "UZ", "VC", "VE", "VN", "VU", "WS", "XK", "ZA", "ZM", "ZW" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/5mMBYPBUI6jHW40ASk1ekn"
+      },
+      "href" : "https://api.spotify.com/v1/albums/5mMBYPBUI6jHW40ASk1ekn",
+      "id" : "5mMBYPBUI6jHW40ASk1ekn",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2736e55af50db35d094eb944a79",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e026e55af50db35d094eb944a79",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048516e55af50db35d094eb944a79",
+        "width" : 64
+      } ],
+      "name" : "Trouble At The Henhouse",
+      "release_date" : "1996-01-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 12,
+      "type" : "album",
+      "uri" : "spotify:album:5mMBYPBUI6jHW40ASk1ekn"
+    }, {
+      "album_group" : "album",
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0YMeriqrS3zgsX24nfY0F0"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0YMeriqrS3zgsX24nfY0F0",
+        "id" : "0YMeriqrS3zgsX24nfY0F0",
+        "name" : "The Tragically Hip",
+        "type" : "artist",
+        "uri" : "spotify:artist:0YMeriqrS3zgsX24nfY0F0"
+      } ],
+      "available_markets" : [ "AD", "AE", "AG", "AL", "AM", "AO", "AR", "AT", "AU", "AZ", "BA", "BB", "BD", "BE", "BG", "BH", "BI", "BJ", "BO", "BR", "BS", "BT", "BW", "BZ", "CA", "CD", "CG", "CH", "CI", "CL", "CM", "CO", "CR", "CV", "CW", "CY", "CZ", "DE", "DJ", "DK", "DM", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FJ", "FM", "FR", "GA", "GB", "GD", "GE", "GH", "GM", "GN", "GQ", "GR", "GT", "GW", "GY", "HK", "HN", "HR", "HT", "HU", "ID", "IE", "IL", "IN", "IQ", "IS", "IT", "JM", "JO", "JP", "KE", "KG", "KH", "KI", "KM", "KN", "KR", "KW", "KZ", "LA", "LB", "LC", "LI", "LK", "LR", "LS", "LT", "LU", "LV", "LY", "MA", "MC", "MD", "ME", "MG", "MH", "MK", "ML", "MN", "MO", "MR", "MT", "MU", "MV", "MW", "MX", "MY", "MZ", "NA", "NE", "NG", "NI", "NL", "NO", "NR", "NZ", "OM", "PA", "PE", "PG", "PH", "PK", "PL", "PS", "PT", "PW", "PY", "QA", "RO", "RS", "RW", "SA", "SB", "SC", "SE", "SG", "SI", "SK", "SL", "SM", "SN", "SR", "ST", "SV", "SZ", "TD", "TG", "TH", "TJ", "TL", "TN", "TO", "TR", "TT", "TV", "TW", "TZ", "UA", "UG", "US", "UY", "VC", "VE", "VN", "VU", "WS", "XK", "ZA", "ZM", "ZW" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/3qtWDY2yl7NGrpCYqxrUt6"
+      },
+      "href" : "https://api.spotify.com/v1/albums/3qtWDY2yl7NGrpCYqxrUt6",
+      "id" : "3qtWDY2yl7NGrpCYqxrUt6",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273fd15a0df85c91d436278bbbf",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02fd15a0df85c91d436278bbbf",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851fd15a0df85c91d436278bbbf",
+        "width" : 64
+      } ],
+      "name" : "Day For Night",
+      "release_date" : "1994-09-09",
+      "release_date_precision" : "day",
+      "total_tracks" : 14,
+      "type" : "album",
+      "uri" : "spotify:album:3qtWDY2yl7NGrpCYqxrUt6"
+    }, {
+      "album_group" : "album",
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0YMeriqrS3zgsX24nfY0F0"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0YMeriqrS3zgsX24nfY0F0",
+        "id" : "0YMeriqrS3zgsX24nfY0F0",
+        "name" : "The Tragically Hip",
+        "type" : "artist",
+        "uri" : "spotify:artist:0YMeriqrS3zgsX24nfY0F0"
+      } ],
+      "available_markets" : [ "US" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/1t4sDayNKDxKUQR5cxqHi6"
+      },
+      "href" : "https://api.spotify.com/v1/albums/1t4sDayNKDxKUQR5cxqHi6",
+      "id" : "1t4sDayNKDxKUQR5cxqHi6",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273e2bed3d18b2f8d73551fc089",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02e2bed3d18b2f8d73551fc089",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851e2bed3d18b2f8d73551fc089",
+        "width" : 64
+      } ],
+      "name" : "Day For Night (International Version)",
+      "release_date" : "1994",
+      "release_date_precision" : "year",
+      "total_tracks" : 14,
+      "type" : "album",
+      "uri" : "spotify:album:1t4sDayNKDxKUQR5cxqHi6"
+    }, {
+      "album_group" : "album",
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0YMeriqrS3zgsX24nfY0F0"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0YMeriqrS3zgsX24nfY0F0",
+        "id" : "0YMeriqrS3zgsX24nfY0F0",
+        "name" : "The Tragically Hip",
+        "type" : "artist",
+        "uri" : "spotify:artist:0YMeriqrS3zgsX24nfY0F0"
+      } ],
+      "available_markets" : [ "AD", "AE", "AG", "AL", "AM", "AO", "AR", "AT", "AU", "AZ", "BA", "BB", "BD", "BE", "BF", "BG", "BH", "BI", "BJ", "BN", "BO", "BR", "BS", "BT", "BW", "BY", "BZ", "CA", "CD", "CG", "CH", "CI", "CL", "CM", "CO", "CR", "CV", "CW", "CY", "CZ", "DE", "DJ", "DK", "DM", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FJ", "FM", "FR", "GA", "GB", "GD", "GE", "GH", "GM", "GN", "GQ", "GR", "GW", "GY", "HK", "HR", "HU", "ID", "IE", "IL", "IN", "IQ", "IS", "IT", "JM", "JO", "JP", "KE", "KG", "KH", "KI", "KM", "KN", "KR", "KW", "KZ", "LA", "LB", "LC", "LI", "LK", "LR", "LS", "LT", "LU", "LV", "LY", "MA", "MC", "MD", "ME", "MG", "MH", "MK", "ML", "MN", "MO", "MR", "MT", "MU", "MV", "MW", "MX", "MY", "MZ", "NA", "NE", "NG", "NL", "NO", "NP", "NR", "NZ", "OM", "PE", "PG", "PH", "PK", "PL", "PS", "PT", "PW", "PY", "QA", "RO", "RS", "RW", "SA", "SB", "SC", "SE", "SG", "SI", "SK", "SL", "SM", "SN", "SR", "ST", "SZ", "TD", "TG", "TH", "TJ", "TL", "TN", "TO", "TR", "TT", "TV", "TW", "TZ", "UA", "UG", "US", "UY", "UZ", "VC", "VE", "VN", "VU", "WS", "XK", "ZA", "ZM", "ZW" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/60peDyBYVk0DWanN2GPxhO"
+      },
+      "href" : "https://api.spotify.com/v1/albums/60peDyBYVk0DWanN2GPxhO",
+      "id" : "60peDyBYVk0DWanN2GPxhO",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2737e5d018ca03147bff4c28bb3",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e027e5d018ca03147bff4c28bb3",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048517e5d018ca03147bff4c28bb3",
+        "width" : 64
+      } ],
+      "name" : "Fully Completely",
+      "release_date" : "1992-10-06",
+      "release_date_precision" : "day",
+      "total_tracks" : 12,
+      "type" : "album",
+      "uri" : "spotify:album:60peDyBYVk0DWanN2GPxhO"
+    }, {
+      "album_group" : "album",
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0YMeriqrS3zgsX24nfY0F0"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0YMeriqrS3zgsX24nfY0F0",
+        "id" : "0YMeriqrS3zgsX24nfY0F0",
+        "name" : "The Tragically Hip",
+        "type" : "artist",
+        "uri" : "spotify:artist:0YMeriqrS3zgsX24nfY0F0"
+      } ],
+      "available_markets" : [ "AD", "AE", "AG", "AL", "AM", "AO", "AR", "AT", "AU", "AZ", "BA", "BB", "BD", "BE", "BF", "BG", "BH", "BI", "BJ", "BN", "BO", "BR", "BS", "BT", "BW", "BY", "BZ", "CA", "CD", "CG", "CH", "CI", "CL", "CM", "CO", "CR", "CV", "CW", "CY", "CZ", "DE", "DJ", "DK", "DM", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FJ", "FM", "FR", "GA", "GB", "GD", "GE", "GH", "GM", "GN", "GQ", "GR", "GT", "GW", "GY", "HK", "HN", "HR", "HT", "HU", "ID", "IE", "IL", "IN", "IQ", "IS", "IT", "JM", "JO", "JP", "KE", "KG", "KH", "KI", "KM", "KN", "KR", "KW", "KZ", "LA", "LB", "LC", "LI", "LK", "LR", "LS", "LT", "LU", "LV", "LY", "MA", "MC", "MD", "ME", "MG", "MH", "MK", "ML", "MN", "MO", "MR", "MT", "MU", "MV", "MW", "MX", "MY", "MZ", "NA", "NE", "NG", "NI", "NL", "NO", "NP", "NR", "NZ", "OM", "PA", "PE", "PG", "PH", "PK", "PL", "PS", "PT", "PW", "PY", "QA", "RO", "RS", "RW", "SA", "SB", "SC", "SE", "SG", "SI", "SK", "SL", "SM", "SN", "SR", "ST", "SV", "SZ", "TD", "TG", "TH", "TJ", "TL", "TN", "TO", "TR", "TT", "TV", "TW", "TZ", "UA", "UG", "US", "UY", "UZ", "VC", "VE", "VN", "VU", "WS", "XK", "ZA", "ZM", "ZW" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/2QNTZHxK2b7QAHiKbZZHzz"
+      },
+      "href" : "https://api.spotify.com/v1/albums/2QNTZHxK2b7QAHiKbZZHzz",
+      "id" : "2QNTZHxK2b7QAHiKbZZHzz",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273ab5150889a41a32eb8fc5d28",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02ab5150889a41a32eb8fc5d28",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851ab5150889a41a32eb8fc5d28",
+        "width" : 64
+      } ],
+      "name" : "Road Apples",
+      "release_date" : "1991-01-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 12,
+      "type" : "album",
+      "uri" : "spotify:album:2QNTZHxK2b7QAHiKbZZHzz"
+    }, {
+      "album_group" : "album",
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0YMeriqrS3zgsX24nfY0F0"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0YMeriqrS3zgsX24nfY0F0",
+        "id" : "0YMeriqrS3zgsX24nfY0F0",
+        "name" : "The Tragically Hip",
+        "type" : "artist",
+        "uri" : "spotify:artist:0YMeriqrS3zgsX24nfY0F0"
+      } ],
+      "available_markets" : [ "AD", "AE", "AG", "AL", "AM", "AO", "AR", "AT", "AU", "AZ", "BA", "BB", "BD", "BE", "BF", "BG", "BH", "BI", "BJ", "BN", "BO", "BR", "BS", "BT", "BW", "BY", "BZ", "CA", "CD", "CG", "CH", "CI", "CL", "CM", "CO", "CR", "CV", "CW", "CY", "CZ", "DE", "DJ", "DK", "DM", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FJ", "FM", "FR", "GA", "GB", "GD", "GE", "GH", "GM", "GN", "GQ", "GR", "GT", "GW", "GY", "HK", "HN", "HR", "HT", "HU", "ID", "IE", "IL", "IN", "IQ", "IS", "IT", "JM", "JO", "JP", "KE", "KG", "KH", "KI", "KM", "KN", "KR", "KW", "KZ", "LA", "LB", "LC", "LI", "LK", "LR", "LS", "LT", "LU", "LV", "LY", "MA", "MC", "MD", "ME", "MG", "MH", "MK", "ML", "MN", "MO", "MR", "MT", "MU", "MV", "MW", "MX", "MY", "MZ", "NA", "NE", "NG", "NI", "NL", "NO", "NP", "NR", "NZ", "OM", "PA", "PE", "PG", "PH", "PK", "PL", "PS", "PT", "PW", "PY", "QA", "RO", "RS", "RW", "SA", "SB", "SC", "SE", "SG", "SI", "SK", "SL", "SM", "SN", "SR", "ST", "SV", "SZ", "TD", "TG", "TH", "TJ", "TL", "TN", "TO", "TR", "TT", "TV", "TW", "TZ", "UA", "UG", "US", "UY", "UZ", "VC", "VE", "VN", "VU", "WS", "XK", "ZA", "ZM", "ZW" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/4gmKiB0dtmPWjzbDM5N7Jv"
+      },
+      "href" : "https://api.spotify.com/v1/albums/4gmKiB0dtmPWjzbDM5N7Jv",
+      "id" : "4gmKiB0dtmPWjzbDM5N7Jv",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273eb6616d368f5d60872a4a91b",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02eb6616d368f5d60872a4a91b",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851eb6616d368f5d60872a4a91b",
+        "width" : 64
+      } ],
+      "name" : "Up To Here",
+      "release_date" : "1989-01-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 11,
+      "type" : "album",
+      "uri" : "spotify:album:4gmKiB0dtmPWjzbDM5N7Jv"
+    }, {
+      "album_group" : "album",
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0YMeriqrS3zgsX24nfY0F0"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0YMeriqrS3zgsX24nfY0F0",
+        "id" : "0YMeriqrS3zgsX24nfY0F0",
+        "name" : "The Tragically Hip",
+        "type" : "artist",
+        "uri" : "spotify:artist:0YMeriqrS3zgsX24nfY0F0"
+      } ],
+      "available_markets" : [ "AD", "AE", "AG", "AL", "AM", "AO", "AR", "AT", "AU", "AZ", "BA", "BB", "BD", "BE", "BF", "BG", "BH", "BI", "BJ", "BN", "BO", "BR", "BS", "BT", "BW", "BY", "BZ", "CA", "CD", "CG", "CH", "CI", "CL", "CM", "CO", "CR", "CV", "CW", "CY", "CZ", "DE", "DJ", "DK", "DM", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FJ", "FM", "FR", "GA", "GB", "GD", "GE", "GH", "GM", "GN", "GQ", "GR", "GT", "GW", "GY", "HK", "HN", "HR", "HT", "HU", "ID", "IE", "IL", "IN", "IQ", "IS", "IT", "JM", "JO", "JP", "KE", "KG", "KH", "KI", "KM", "KN", "KR", "KW", "KZ", "LA", "LB", "LC", "LI", "LK", "LR", "LS", "LT", "LU", "LV", "LY", "MA", "MC", "MD", "ME", "MG", "MH", "MK", "ML", "MN", "MO", "MR", "MT", "MU", "MV", "MW", "MX", "MY", "MZ", "NA", "NE", "NG", "NI", "NL", "NO", "NP", "NR", "NZ", "OM", "PA", "PE", "PG", "PH", "PK", "PL", "PS", "PT", "PW", "PY", "QA", "RO", "RS", "RW", "SA", "SB", "SC", "SE", "SG", "SI", "SK", "SL", "SM", "SN", "SR", "ST", "SV", "SZ", "TD", "TG", "TH", "TJ", "TL", "TN", "TO", "TR", "TT", "TV", "TW", "TZ", "UA", "UG", "US", "UY", "UZ", "VC", "VE", "VN", "VU", "WS", "XK", "ZA", "ZM", "ZW" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/40agYF5r1Q9nra0qu8qPSs"
+      },
+      "href" : "https://api.spotify.com/v1/albums/40agYF5r1Q9nra0qu8qPSs",
+      "id" : "40agYF5r1Q9nra0qu8qPSs",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2735885a46e9fee1a86553c56f0",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e025885a46e9fee1a86553c56f0",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048515885a46e9fee1a86553c56f0",
+        "width" : 64
+      } ],
+      "name" : "The Tragically Hip",
+      "release_date" : "1987-12-11",
+      "release_date_precision" : "day",
+      "total_tracks" : 8,
+      "type" : "album",
+      "uri" : "spotify:album:40agYF5r1Q9nra0qu8qPSs"
+    }, {
+      "album_group" : "album",
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0YMeriqrS3zgsX24nfY0F0"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0YMeriqrS3zgsX24nfY0F0",
+        "id" : "0YMeriqrS3zgsX24nfY0F0",
+        "name" : "The Tragically Hip",
+        "type" : "artist",
+        "uri" : "spotify:artist:0YMeriqrS3zgsX24nfY0F0"
+      } ],
+      "available_markets" : [ "US" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/3Dp5C5imWUFs5d1sKRVHw2"
+      },
+      "href" : "https://api.spotify.com/v1/albums/3Dp5C5imWUFs5d1sKRVHw2",
+      "id" : "3Dp5C5imWUFs5d1sKRVHw2",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273ff93cd0c5334b53d9c93cb4c",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02ff93cd0c5334b53d9c93cb4c",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851ff93cd0c5334b53d9c93cb4c",
+        "width" : 64
+      } ],
+      "name" : "The Tragically Hip (International Version)",
+      "release_date" : "1987",
+      "release_date_precision" : "year",
+      "total_tracks" : 8,
+      "type" : "album",
+      "uri" : "spotify:album:3Dp5C5imWUFs5d1sKRVHw2"
+    }, {
+      "album_group" : "single",
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0YMeriqrS3zgsX24nfY0F0"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0YMeriqrS3zgsX24nfY0F0",
+        "id" : "0YMeriqrS3zgsX24nfY0F0",
+        "name" : "The Tragically Hip",
+        "type" : "artist",
+        "uri" : "spotify:artist:0YMeriqrS3zgsX24nfY0F0"
+      } ],
+      "available_markets" : [ "AD", "AE", "AG", "AL", "AM", "AO", "AR", "AT", "AU", "AZ", "BA", "BB", "BD", "BE", "BF", "BG", "BH", "BI", "BJ", "BN", "BO", "BR", "BS", "BT", "BW", "BZ", "CA", "CD", "CG", "CH", "CI", "CL", "CM", "CO", "CR", "CV", "CW", "CY", "CZ", "DE", "DJ", "DK", "DM", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FJ", "FM", "FR", "GA", "GB", "GD", "GE", "GH", "GM", "GN", "GQ", "GR", "GT", "GW", "GY", "HK", "HN", "HR", "HT", "HU", "ID", "IE", "IL", "IN", "IQ", "IS", "IT", "JM", "JO", "JP", "KE", "KG", "KH", "KI", "KM", "KN", "KR", "KW", "KZ", "LA", "LB", "LC", "LI", "LK", "LR", "LS", "LT", "LU", "LV", "LY", "MA", "MC", "MD", "ME", "MG", "MH", "MK", "ML", "MN", "MO", "MR", "MT", "MU", "MV", "MW", "MX", "MY", "MZ", "NA", "NE", "NG", "NI", "NL", "NO", "NP", "NR", "NZ", "OM", "PA", "PE", "PG", "PH", "PK", "PL", "PS", "PT", "PW", "PY", "QA", "RO", "RS", "RW", "SA", "SB", "SC", "SE", "SG", "SI", "SK", "SL", "SM", "SN", "SR", "ST", "SV", "SZ", "TD", "TG", "TH", "TJ", "TL", "TN", "TO", "TR", "TT", "TV", "TW", "TZ", "UA", "UG", "US", "UY", "UZ", "VC", "VE", "VN", "VU", "WS", "XK", "ZA", "ZM", "ZW" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/5qv1Xx0T5B4YPMIBTypTy8"
+      },
+      "href" : "https://api.spotify.com/v1/albums/5qv1Xx0T5B4YPMIBTypTy8",
+      "id" : "5qv1Xx0T5B4YPMIBTypTy8",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273d1466f9b48a13c0cae1341ec",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02d1466f9b48a13c0cae1341ec",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851d1466f9b48a13c0cae1341ec",
+        "width" : 64
+      } ],
+      "name" : "She Didn't Know (Live At The Roxy May 3, 1991)",
+      "release_date" : "2022-05-12",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:5qv1Xx0T5B4YPMIBTypTy8"
+    }, {
+      "album_group" : "single",
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0YMeriqrS3zgsX24nfY0F0"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0YMeriqrS3zgsX24nfY0F0",
+        "id" : "0YMeriqrS3zgsX24nfY0F0",
+        "name" : "The Tragically Hip",
+        "type" : "artist",
+        "uri" : "spotify:artist:0YMeriqrS3zgsX24nfY0F0"
+      } ],
+      "available_markets" : [ "AD", "AE", "AG", "AL", "AM", "AO", "AR", "AT", "AU", "AZ", "BA", "BB", "BD", "BE", "BF", "BG", "BH", "BI", "BJ", "BN", "BO", "BR", "BS", "BT", "BW", "BY", "BZ", "CA", "CD", "CG", "CH", "CI", "CL", "CM", "CO", "CR", "CV", "CW", "CY", "CZ", "DE", "DJ", "DK", "DM", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FJ", "FM", "FR", "GA", "GB", "GD", "GE", "GH", "GM", "GN", "GQ", "GR", "GT", "GW", "GY", "HK", "HN", "HR", "HT", "HU", "ID", "IE", "IL", "IN", "IQ", "IS", "IT", "JM", "JO", "JP", "KE", "KG", "KH", "KI", "KM", "KN", "KR", "KW", "KZ", "LA", "LB", "LC", "LI", "LK", "LR", "LS", "LT", "LU", "LV", "LY", "MA", "MC", "MD", "ME", "MG", "MH", "MK", "ML", "MN", "MO", "MR", "MT", "MU", "MV", "MW", "MX", "MY", "MZ", "NA", "NE", "NG", "NI", "NL", "NO", "NP", "NR", "NZ", "OM", "PA", "PE", "PG", "PH", "PK", "PL", "PS", "PT", "PW", "PY", "QA", "RO", "RS", "RW", "SA", "SB", "SC", "SE", "SG", "SI", "SK", "SL", "SM", "SN", "SR", "ST", "SV", "SZ", "TD", "TG", "TH", "TJ", "TL", "TN", "TO", "TR", "TT", "TV", "TW", "TZ", "UA", "UG", "US", "UY", "UZ", "VC", "VE", "VN", "VU", "WS", "XK", "ZA", "ZM", "ZW" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/5ZkYiakl6ect063CqrAcoF"
+      },
+      "href" : "https://api.spotify.com/v1/albums/5ZkYiakl6ect063CqrAcoF",
+      "id" : "5ZkYiakl6ect063CqrAcoF",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27318ec887472bd616c3e2d31f9",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0218ec887472bd616c3e2d31f9",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485118ec887472bd616c3e2d31f9",
+        "width" : 64
+      } ],
+      "name" : "Fiddler's Green (Alternate Version)",
+      "release_date" : "2021-09-17",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:5ZkYiakl6ect063CqrAcoF"
+    }, {
+      "album_group" : "single",
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0YMeriqrS3zgsX24nfY0F0"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0YMeriqrS3zgsX24nfY0F0",
+        "id" : "0YMeriqrS3zgsX24nfY0F0",
+        "name" : "The Tragically Hip",
+        "type" : "artist",
+        "uri" : "spotify:artist:0YMeriqrS3zgsX24nfY0F0"
+      } ],
+      "available_markets" : [ "AD", "AE", "AG", "AL", "AM", "AO", "AR", "AT", "AU", "AZ", "BA", "BB", "BD", "BE", "BF", "BG", "BH", "BI", "BJ", "BN", "BO", "BR", "BS", "BT", "BW", "BY", "BZ", "CA", "CD", "CG", "CH", "CI", "CL", "CM", "CO", "CR", "CV", "CW", "CY", "CZ", "DE", "DJ", "DK", "DM", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FJ", "FM", "FR", "GA", "GB", "GD", "GE", "GH", "GM", "GN", "GQ", "GR", "GT", "GW", "GY", "HK", "HN", "HR", "HT", "HU", "ID", "IE", "IL", "IN", "IQ", "IS", "IT", "JM", "JO", "JP", "KE", "KG", "KH", "KI", "KM", "KN", "KR", "KW", "KZ", "LA", "LB", "LC", "LI", "LK", "LR", "LS", "LT", "LU", "LV", "LY", "MA", "MC", "MD", "ME", "MG", "MH", "MK", "ML", "MN", "MO", "MR", "MT", "MU", "MV", "MW", "MX", "MY", "MZ", "NA", "NE", "NG", "NI", "NL", "NO", "NP", "NR", "NZ", "OM", "PA", "PE", "PG", "PH", "PK", "PL", "PS", "PT", "PW", "PY", "QA", "RO", "RS", "RW", "SA", "SB", "SC", "SE", "SG", "SI", "SK", "SL", "SM", "SN", "SR", "ST", "SV", "SZ", "TD", "TG", "TH", "TJ", "TL", "TN", "TO", "TR", "TT", "TV", "TW", "TZ", "UA", "UG", "US", "UY", "UZ", "VC", "VE", "VN", "VU", "WS", "XK", "ZA", "ZM", "ZW" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/4K4TmKxqAJLQfsIuwb7per"
+      },
+      "href" : "https://api.spotify.com/v1/albums/4K4TmKxqAJLQfsIuwb7per",
+      "id" : "4K4TmKxqAJLQfsIuwb7per",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273b4b70b7eac7b0d7db223bb88",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02b4b70b7eac7b0d7db223bb88",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851b4b70b7eac7b0d7db223bb88",
+        "width" : 64
+      } ],
+      "name" : "Saskadelphia",
+      "release_date" : "2021-05-21",
+      "release_date_precision" : "day",
+      "total_tracks" : 6,
+      "type" : "album",
+      "uri" : "spotify:album:4K4TmKxqAJLQfsIuwb7per"
+    }, {
+      "album_group" : "single",
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0YMeriqrS3zgsX24nfY0F0"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0YMeriqrS3zgsX24nfY0F0",
+        "id" : "0YMeriqrS3zgsX24nfY0F0",
+        "name" : "The Tragically Hip",
+        "type" : "artist",
+        "uri" : "spotify:artist:0YMeriqrS3zgsX24nfY0F0"
+      } ],
+      "available_markets" : [ "AD", "AE", "AG", "AL", "AM", "AO", "AR", "AT", "AU", "AZ", "BA", "BB", "BD", "BE", "BF", "BG", "BH", "BI", "BJ", "BN", "BO", "BR", "BS", "BT", "BW", "BY", "BZ", "CA", "CD", "CG", "CH", "CI", "CL", "CM", "CO", "CR", "CV", "CW", "CY", "CZ", "DE", "DJ", "DK", "DM", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FJ", "FM", "FR", "GA", "GB", "GD", "GE", "GH", "GM", "GN", "GQ", "GR", "GT", "GW", "GY", "HK", "HN", "HR", "HT", "HU", "ID", "IE", "IL", "IN", "IQ", "IS", "IT", "JM", "JO", "JP", "KE", "KG", "KH", "KI", "KM", "KN", "KR", "KW", "KZ", "LA", "LB", "LC", "LI", "LK", "LR", "LS", "LT", "LU", "LV", "LY", "MA", "MC", "MD", "ME", "MG", "MH", "MK", "ML", "MN", "MO", "MR", "MT", "MU", "MV", "MW", "MX", "MY", "MZ", "NA", "NE", "NG", "NI", "NL", "NO", "NP", "NR", "NZ", "OM", "PA", "PE", "PG", "PH", "PK", "PL", "PS", "PT", "PW", "PY", "QA", "RO", "RS", "RW", "SA", "SB", "SC", "SE", "SG", "SI", "SK", "SL", "SM", "SN", "SR", "ST", "SV", "SZ", "TD", "TG", "TH", "TJ", "TL", "TN", "TO", "TR", "TT", "TV", "TW", "TZ", "UA", "UG", "UY", "UZ", "VC", "VE", "VN", "VU", "WS", "XK", "ZA", "ZM", "ZW" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/5A3sYTygJCoy6I2xUCRG6E"
+      },
+      "href" : "https://api.spotify.com/v1/albums/5A3sYTygJCoy6I2xUCRG6E",
+      "id" : "5A3sYTygJCoy6I2xUCRG6E",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2730481925b998e311889f8ba67",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e020481925b998e311889f8ba67",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048510481925b998e311889f8ba67",
+        "width" : 64
+      } ],
+      "name" : "Radio Show",
+      "release_date" : "2014-10-06",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:5A3sYTygJCoy6I2xUCRG6E"
+    }, {
+      "album_group" : "single",
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0YMeriqrS3zgsX24nfY0F0"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0YMeriqrS3zgsX24nfY0F0",
+        "id" : "0YMeriqrS3zgsX24nfY0F0",
+        "name" : "The Tragically Hip",
+        "type" : "artist",
+        "uri" : "spotify:artist:0YMeriqrS3zgsX24nfY0F0"
+      } ],
+      "available_markets" : [ "CA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/6vmZ1ozs6KRiklt4eMgppF"
+      },
+      "href" : "https://api.spotify.com/v1/albums/6vmZ1ozs6KRiklt4eMgppF",
+      "id" : "6vmZ1ozs6KRiklt4eMgppF",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2739cb3772aaf70762d6e6b3dc5",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e029cb3772aaf70762d6e6b3dc5",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048519cb3772aaf70762d6e6b3dc5",
+        "width" : 64
+      } ],
+      "name" : "Blow At High Dough / New Orleans Is Sinking",
+      "release_date" : "2009-01-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 2,
+      "type" : "album",
+      "uri" : "spotify:album:6vmZ1ozs6KRiklt4eMgppF"
+    }, {
+      "album_group" : "single",
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0YMeriqrS3zgsX24nfY0F0"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0YMeriqrS3zgsX24nfY0F0",
+        "id" : "0YMeriqrS3zgsX24nfY0F0",
+        "name" : "The Tragically Hip",
+        "type" : "artist",
+        "uri" : "spotify:artist:0YMeriqrS3zgsX24nfY0F0"
+      } ],
+      "available_markets" : [ "CA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/1eIS8M1TXcsCbWLLySb8ra"
+      },
+      "href" : "https://api.spotify.com/v1/albums/1eIS8M1TXcsCbWLLySb8ra",
+      "id" : "1eIS8M1TXcsCbWLLySb8ra",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2734bd55ed2d94c7979c399790c",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e024bd55ed2d94c7979c399790c",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048514bd55ed2d94c7979c399790c",
+        "width" : 64
+      } ],
+      "name" : "Love Is A First / The Last Recluse",
+      "release_date" : "2009-01-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 2,
+      "type" : "album",
+      "uri" : "spotify:album:1eIS8M1TXcsCbWLLySb8ra"
+    }, {
+      "album_group" : "single",
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0YMeriqrS3zgsX24nfY0F0"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0YMeriqrS3zgsX24nfY0F0",
+        "id" : "0YMeriqrS3zgsX24nfY0F0",
+        "name" : "The Tragically Hip",
+        "type" : "artist",
+        "uri" : "spotify:artist:0YMeriqrS3zgsX24nfY0F0"
+      } ],
+      "available_markets" : [ "CA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/5RA6tLWnZc6PhHoCGCJnkD"
+      },
+      "href" : "https://api.spotify.com/v1/albums/5RA6tLWnZc6PhHoCGCJnkD",
+      "id" : "5RA6tLWnZc6PhHoCGCJnkD",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2735a0e7426b8260aab9c4b1fe8",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e025a0e7426b8260aab9c4b1fe8",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048515a0e7426b8260aab9c4b1fe8",
+        "width" : 64
+      } ],
+      "name" : "Poets / Bobcaygeon",
+      "release_date" : "2009-01-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 2,
+      "type" : "album",
+      "uri" : "spotify:album:5RA6tLWnZc6PhHoCGCJnkD"
+    }, {
+      "album_group" : "single",
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0YMeriqrS3zgsX24nfY0F0"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0YMeriqrS3zgsX24nfY0F0",
+        "id" : "0YMeriqrS3zgsX24nfY0F0",
+        "name" : "The Tragically Hip",
+        "type" : "artist",
+        "uri" : "spotify:artist:0YMeriqrS3zgsX24nfY0F0"
+      } ],
+      "available_markets" : [ "AD", "AE", "AG", "AL", "AM", "AO", "AR", "AT", "AU", "AZ", "BA", "BB", "BD", "BE", "BF", "BG", "BH", "BI", "BJ", "BN", "BO", "BR", "BS", "BT", "BW", "BY", "BZ", "CD", "CG", "CH", "CI", "CL", "CM", "CO", "CR", "CV", "CW", "CY", "CZ", "DE", "DJ", "DK", "DM", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FJ", "FM", "FR", "GA", "GB", "GD", "GE", "GH", "GM", "GN", "GQ", "GR", "GT", "GW", "GY", "HK", "HN", "HR", "HT", "HU", "ID", "IE", "IL", "IN", "IQ", "IS", "IT", "JM", "JO", "JP", "KE", "KG", "KH", "KI", "KM", "KN", "KR", "KW", "KZ", "LA", "LB", "LC", "LI", "LK", "LR", "LS", "LT", "LU", "LV", "LY", "MA", "MC", "MD", "ME", "MG", "MH", "MK", "ML", "MN", "MO", "MR", "MT", "MU", "MV", "MW", "MX", "MY", "MZ", "NA", "NE", "NG", "NI", "NL", "NO", "NP", "NR", "NZ", "OM", "PA", "PE", "PG", "PH", "PK", "PL", "PS", "PT", "PW", "PY", "QA", "RO", "RS", "RW", "SA", "SB", "SC", "SE", "SG", "SI", "SK", "SL", "SM", "SN", "SR", "ST", "SV", "SZ", "TD", "TG", "TH", "TJ", "TL", "TN", "TO", "TR", "TT", "TV", "TW", "TZ", "UA", "UG", "US", "UY", "UZ", "VC", "VE", "VN", "VU", "WS", "XK", "ZA", "ZM", "ZW" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/4OTIW5umuYwOGs1gBa0NhS"
+      },
+      "href" : "https://api.spotify.com/v1/albums/4OTIW5umuYwOGs1gBa0NhS",
+      "id" : "4OTIW5umuYwOGs1gBa0NhS",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273f7ac423223303bd495578c07",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02f7ac423223303bd495578c07",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851f7ac423223303bd495578c07",
+        "width" : 64
+      } ],
+      "name" : "World Container Value Add Singles",
+      "release_date" : "2006-01-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 2,
+      "type" : "album",
+      "uri" : "spotify:album:4OTIW5umuYwOGs1gBa0NhS"
+    } ],
+    "limit" : 50,
+    "next" : null,
+    "offset" : 0,
+    "previous" : null,
+    "total" : 42
+  }

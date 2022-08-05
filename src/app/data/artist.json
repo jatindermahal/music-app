@@ -1,0 +1,29 @@
+{
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/0YMeriqrS3zgsX24nfY0F0"
+    },
+    "followers" : {
+      "href" : null,
+      "total" : 821670
+    },
+    "genres" : [ "canadian indie", "canadian rock", "kingston on indie", "ontario indie", "rock" ],
+    "href" : "https://api.spotify.com/v1/artists/0YMeriqrS3zgsX24nfY0F0",
+    "id" : "0YMeriqrS3zgsX24nfY0F0",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/ab6761610000e5ebdd9cd1d7472878c8e49de5a5",
+      "width" : 640
+    }, {
+      "height" : 320,
+      "url" : "https://i.scdn.co/image/ab67616100005174dd9cd1d7472878c8e49de5a5",
+      "width" : 320
+    }, {
+      "height" : 160,
+      "url" : "https://i.scdn.co/image/ab6761610000f178dd9cd1d7472878c8e49de5a5",
+      "width" : 160
+    } ],
+    "name" : "The Tragically Hip",
+    "popularity" : 58,
+    "type" : "artist",
+    "uri" : "spotify:artist:0YMeriqrS3zgsX24nfY0F0"
+  }

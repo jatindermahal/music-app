@@ -1,0 +1,8 @@
+#detail mat-icon{
+    position:relative; 
+    top:6px;
+}
+
+mat-list mat-icon:hover{ 
+    cursor: pointer; 
+}
